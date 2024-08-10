@@ -31,6 +31,7 @@
 ## 4.离线安装nnUNet包（可选）
 **第一步**：点击百度网盘链接：https://pan.baidu.com/s/1hzKEVjweXPK1MeIsTSQcSQ?pwd=demu 
 提取码：demu 
+
 **第二步**：下载python包 `nnunet_package.zip `到本地 `project/`
 
 **第三步**：`cd project/nnunet_package`
